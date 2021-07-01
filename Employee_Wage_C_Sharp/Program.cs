@@ -10,7 +10,8 @@ namespace Employee_Wage_C_Sharp
             //UC1_Employee_Attendence.empCheck();
             //UC2_Employee_Daily_Wage.DailyEmployeeWage();
             //UC3_Part_Time_Employee_Wage.PartTimeEmployeeWage();
-            UC4_UsingCaseStatementForEmpWageSwitch.UsingCaseStmtForEmpWageSwitch();
+            //UC4_UsingCaseStatementForEmpWageSwitch.UsingCaseStmtForEmpWageSwitch();
+            UC5_CalculatingWagesForMonth.CalculatingWagesForMonth();
         }
     }
 }
