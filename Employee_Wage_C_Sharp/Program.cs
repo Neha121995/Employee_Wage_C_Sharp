@@ -11,7 +11,8 @@ namespace Employee_Wage_C_Sharp
             //UC2_Employee_Daily_Wage.DailyEmployeeWage();
             //UC3_Part_Time_Employee_Wage.PartTimeEmployeeWage();
             //UC4_UsingCaseStatementForEmpWageSwitch.UsingCaseStmtForEmpWageSwitch();
-            UC5_CalculatingWagesForMonth.CalculatingWagesForMonth();
+            //UC5_CalculatingWagesForMonth.CalculatingWagesForMonth();
+            UC6_EmployeeWageUsingWhileLoop.EmpWageUsingWhile();
         }
     }
 }
